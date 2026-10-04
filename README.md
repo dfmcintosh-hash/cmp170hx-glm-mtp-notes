@@ -49,7 +49,7 @@ Read the dataset's definitions before comparing any two numbers.
 
 ## Not included
 - **No model weights, drafter or container images.** In particular, the DFlash2 drafter ([incoai/GLM-5.3-Flash-DFlash2](https://huggingface.co/incoai/GLM-5.3-Flash-DFlash2), CC BY-NC-ND 4.0, by incoai) is not redistributed here in any form. Only our measurements made with it, unmodified, are included.
-- **Engine and recipe:** [Morrowmake/vllm-cmp170hx](https://github.com/Morrowmake/vllm-cmp170hx) (Apache-2.0) and [Morrowmake/glm53-flash-cmp170hx-recipe](https://github.com/Morrowmake/glm53-flash-cmp170hx-recipe) (MIT). Our PP4-on-x4 measurement report for them is posted separately: **MORROWMAKE-ISSUE-LINK-PLACEHOLDER**.
+- **Engine and recipe:** [Morrowmake/vllm-cmp170hx](https://github.com/Morrowmake/vllm-cmp170hx) (Apache-2.0) and [Morrowmake/glm53-flash-cmp170hx-recipe](https://github.com/Morrowmake/glm53-flash-cmp170hx-recipe) (MIT). Our PP4-on-x4 measurement report for them is posted separately: [Morrowmake/glm53-flash-cmp170hx-recipe#9](https://github.com/Morrowmake/glm53-flash-cmp170hx-recipe/issues/9).
 
 ## Credits
 - [vLLM](https://github.com/vllm-project/vllm).
