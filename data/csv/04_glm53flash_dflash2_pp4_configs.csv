@@ -1,0 +1,6 @@
+Source,Engine,Stage VBIOS/topology,Context limit,Max sequences,KV token capacity
+D150-A,1.5.0,mixed 67/6D/67/6D; one x2,262144,8,2334498
+D150-B,1.5.0,"all 67; reported x4, run-time links unpinned",262144,8,2334498
+D150-C,1.5.0,6D/67/6D/67; one x2,262144,8,2334498
+D160-7,1.6.0,6D/67/6D/67; one x2,524288,4,3037668
+D160-5,1.6.0,6D/67/6D/67; one x2,524288,4,3205760

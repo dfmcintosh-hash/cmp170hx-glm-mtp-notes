@@ -1,0 +1,7 @@
+Source,Streams,Aggregate completion tok/s,Acceptance %,TTFT ms,Requests
+F-BW-K1,1,81.63,99.22,NR,2
+F-BW-K1,4,181.77,88.22,NR,8
+F-BW-K5a,1,115.44,85.44,NR,2
+F-BW-K5a,4,176.86,57.60,NR,8
+F-BW-K5b,1,123.06,94.22,180.01,2
+F-BW-K5b,8,255.03,50.82,292.32,16

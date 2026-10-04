@@ -1,0 +1,5 @@
+Source,Prompt ID,Measured prompt tokens,Effective first-token tok/s,TTFT s,Repetitions
+D150-B,0,25668–25670,4663.69,5.60,2
+D150-B,1,26601–26602,5348.59,4.97,2
+D150-B,2,30644–30645,5347.87,5.73,2
+D150-B,3,36750–36751,5520.81,6.66,2
